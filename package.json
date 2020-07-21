@@ -25,5 +25,8 @@
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.12.4",
     "jest": "^24.5.0"
+  },
+  "dependencies": {
+    "jasmine-node": "^3.0.0"
   }
 }
